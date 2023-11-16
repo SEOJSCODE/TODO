@@ -18,7 +18,7 @@ h1, h2 {
     font-weight: 400;
 }
 .main-container {
-    width: 460px;
+    width: 320px;
     margin: 0 auto;
 }
 .todo-container {
@@ -30,7 +30,7 @@ input::-ms-clear {
 .todo-input {
     border: 1px solid #BBBBBB;
     display: flex;
-    width: 460px;
+    width: 320px;
     border-radius: 6px;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -39,7 +39,7 @@ input::-ms-clear {
 }
 .todo-input input {
     font-size: 16px;
-    width: 95%;
+    width: 90%;
     border: none;
 }
 .add-task:after {
@@ -55,7 +55,7 @@ input::-ms-clear {
     font-weight: 100;
 }
 .todo-task {
-    width: 460px;
+    width: 320px;
     display: flex;
     border: 1px solid #BBBBBB;
     padding: 10px 12px 10px 12px;
